@@ -1,5 +1,5 @@
 <h1 align="center">Olá, seja muito bem-vindo(a)!</h1>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tiagojose76&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats-pi-liard.vercel.app/api?username=tiagojose76&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div> 
 <h3 align="center">Olá, meu nome é Tiago eu sou um desenvolvedor web com experiência em HTML, CSS e PHP. Estou sempre procurando aprender novas tecnologias e aprimorar minhas habilidades existentes para fornecer o melhor serviço possível</h3> <h3>Linguagens:</h3> 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
