@@ -2,7 +2,7 @@
 <div align="center">
         <img src="https://github-readme-stats-pi-liard.vercel.app/api?username=tiagojose76&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
 </div>
-<h3 align="center">Olá, meu nome é Tiago eu sou um desenvolvedor web com experiência em HTML, CSS e PHP. Estou sempre procurando aprender novas tecnologias e aprimorar minhas habilidades existentes para fornecer o melhor serviço possível</h3>
+<h3 align="center">Olá, meu nome é Tiago eu sou um desenvolvedor web com experiência em JavaScript, TypeScript e ReactJS. Estou sempre procurando aprender novas tecnologias e aprimorar minhas habilidades existentes para fornecer o melhor serviço possível</h3>
 <h3>Linguagens:</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -11,12 +11,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://camo.githubusercontent.com/999ac61673796a0151eef10879275094b94e4cdf8633a61c01819c6504dcb6d9/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f6a732e706e67" alt="javascript" width="40" height="40" style="border-radius: 10px;" />
+        <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" alt="javascript" width="40" height="40" style="border-radius: 10px;" />
 </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+        <img src="https://github.com/remojansen/logo.ts/raw/master/ts.png" alt="typescript" width="40" height="40" style="border-radius: 10px;" />
 </a>
-
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
+</a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
 </a>
@@ -25,9 +27,7 @@
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
 </a>
 
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
-</a>
+
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart">
 </a>
@@ -44,9 +44,7 @@
 <a href="https://www.microsoft.com/pt-br/windows/?r=1" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
-</a>
+
 
 <h2></h2>
 <div>
