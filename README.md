@@ -1,38 +1,35 @@
+
+
 <h1 align="center">Olá, seja muito bem-vindo(a)!</h1>
 <div align="center">
         <img src="https://github-readme-stats-pi-liard.vercel.app/api?username=tiagojose76&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
 </div>
-<h3 align="center">Olá, meu nome é Tiago eu sou um desenvolvedor web com experiência em JavaScript, TypeScript e ReactJS. Estou sempre procurando aprender novas tecnologias e aprimorar minhas habilidades existentes para fornecer o melhor serviço possível</h3>
+<h3 align="center">Olá, meu nome é Tiago eu sou um desenvolvedor web com experiência em JavaScript, TypeScript e React. Estou sempre procurando aprender novas tecnologias e aprimorar minhas habilidades existentes para fornecer o melhor serviço possível</h3>
 <h3>Linguagens:</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-</a>
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" alt="javascript" width="40" height="40" style="border-radius: 10px;" />
+        <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" alt="javascript" width="85" height="30" />
 </a>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-        <img src="https://github.com/remojansen/logo.ts/raw/master/ts.png" alt="typescript" width="40" height="40" style="border-radius: 10px;" />
+        <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="typescript" width="85" height="30" />
 </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" width="85" height="30">
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="85" height="30">
 </a>
 
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" width="85" height="30">
 </a>
 
 
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" width="85" height="30">
 </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" width="85" height="30">
 </a>
 <h3 target="_blank" rel="noreferrer"> Ferramentas: </h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
