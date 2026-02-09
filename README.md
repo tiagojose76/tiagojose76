@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja muito bem-vindo(a)!</h1>
 
 <div align="center">
-    <img src="https://github-readme-stats-pi-liard.vercel.app/api?username=tiagojose76&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagojose76&theme=github_dark" />
 </div>
 
 <h3 align="center">
@@ -9,6 +9,11 @@ Olá, meu nome é Tiago eu sou um desenvolvedor web com experiência em JavaScri
 TypeScript e React. Estou sempre procurando aprender novas tecnologias e aprimorar 
 minhas habilidades existentes para fornecer o melhor serviço possível.
 </h3>
+<!--
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagojose76&theme=tokyo-night&hide_border=true"/>
+</div>
+-->
 
 <h3>Linguagens:</h3>
 
