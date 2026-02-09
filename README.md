@@ -33,6 +33,5 @@ minhas habilidades existentes para fornecer o melhor serviço possível.
 <h2></h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-<a href="https://www.instagram.com/tiagocunha_76/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/tiago-josé-95b98a239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
