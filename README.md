@@ -1,7 +1,11 @@
 ### Olá, eu sou Tiago José 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%"/>
+  <a href="https://www.linkedin.com/in/tiago-josé-95b98a239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VobHRnaGptYWk0c3k4NWFjZTdmNDZxZmtiN3NjMTJlNjQ5ZmRsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8nhNK6JsTXY66daTs8/giphy.gif" width="40%"/>
 </div>
 
 <div align="center">
@@ -28,7 +32,3 @@
 ![snake gif](https://raw.githubusercontent.com/tiagojose76/tiagojose76/output/github-contribution-grid-snake-dark.svg)
 
 <br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tiago-josé-95b98a239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
