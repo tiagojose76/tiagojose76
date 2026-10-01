@@ -1,4 +1,4 @@
-### Olá, eu sou Tiago José 👋
+### Olá, eu sou Tiago 👋
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tiago-josé-95b98a239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -16,7 +16,7 @@
     </kbd>
   </div>
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagojose76&theme=github_dark" />
 </div>
